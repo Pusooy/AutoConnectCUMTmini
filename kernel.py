@@ -16,8 +16,8 @@ class Kernel(QThread):
             "c": "Portal",
             "a": "login",
             "login_method": "1",
-            "user_account": "5704",
-            "user_password": "106939"
+            "user_account": "081800
+            "user_password": "123456"
         }
         self.testUrl = "http://www.baidu.com"
         self.s = requests.session()
