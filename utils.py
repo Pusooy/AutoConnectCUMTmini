@@ -89,7 +89,7 @@ def init_and_loadconfig():
 
 
 # 发送email
-def send_email(smtpHost='smtp.163.com', sendAddr='autoconnectcumt@163.com', password='ISWCPFKUWZYQQPMY',
+def send_email(smtpHost='smtp.163.com', sendAddr='autoconnectcumt@163.com', password='ISWCPFKUWZYQQXXX',
                recipientAddrs='1643460951@qq.com', subject='AutoConnectCUMTmini', content=''):
     msg = email.mime.multipart.MIMEMultipart()
     msg['from'] = sendAddr
