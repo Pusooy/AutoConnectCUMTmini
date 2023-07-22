@@ -1,6 +1,6 @@
 # AutoConnectCUMTmini
 
-中国矿业大学校园网自动连接小程序
+中国矿业大学 校园网自动连接
 
 技术栈: python+pyside6
 
